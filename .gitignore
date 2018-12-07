@@ -12,9 +12,10 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+
 Content/StarterContent
-Content/levels
-Content/Blueprints
+Content/Collections
+Content/Developpers
 Content/Assets
-Content/HUD
 Content/Meshes
+Content/Levels
